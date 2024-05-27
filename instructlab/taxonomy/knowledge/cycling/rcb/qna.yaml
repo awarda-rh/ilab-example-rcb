@@ -1,0 +1,23 @@
+created_by: awarda
+domain: cycling
+seed_examples:
+- answer: Radtreff Campus Bonn - or short RCB - is a cycling club based in the German city Bonn.
+    It has approximately 400 members and was founded more than 20 years ago.
+    RCB is doing regular cycling training in the form of guided cycling tours.
+  question: What is Radtreff Campus Bonn?
+- answer: Check out the RCB website at https://radtreffcampus.de
+  question: How can I learn more about Radtreff Campus Bonn?
+- answer: Radtreff Campus Bonn was originally founded by employees of the icompany Deutsche Telekom.
+    Deutsche Telekom was a sponsor of professional cycling teams.
+    RCB became independent after the Deutsche Telekom quit sponsoring of professional cycling teams.
+  question: What is the realtion between RCB and Telekom?
+- answer: Radtreff Campus Bonn is abbrieviated RCB.
+  question: What is the abbreviation of Radtreff Campus Bonn?
+- answer: Radtreff Campus Bonn has approximately 400 members.
+  question: How many members has Radtreff Campus Bonn?
+task_description: 'Details on Radtreff Campus Bonn'
+document: 
+  repo: https://github.com/awarda-rh/ilab-example-rcb
+  commit: a0d6b18
+  patterns:
+    - readme.md
